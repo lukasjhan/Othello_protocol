@@ -1,0 +1,15 @@
+[Sun Jan 26 12.51.29 2020]:Server running, Port: 6068 open
+[Sun Jan 26 12.51.32 2020]:Black(('127.0.0.1', 52077)) connected
+[Sun Jan 26 12.51.32 2020]:Black token published: JlPxQbziUqYWJ0JOJj8F
+[Sun Jan 26 12.51.37 2020]:White(('127.0.0.1', 52078)) connected
+[Sun Jan 26 12.51.37 2020]:White token published: ffhbgiQSSbxMcXjWJiYD
+[Sun Jan 26 12.51.37 2020]:======={ Game start }=======
+[Sun Jan 26 12.51.37 2020]:Black available: 3D 4C 5F 6E
+[Sun Jan 26 12.51.40 2020]:board: 0000000000000000000b0000000bb000000bw000000000000000000000000000
+[Sun Jan 26 12.51.40 2020]:White available: 3C 3E 5C
+[Sun Jan 26 12.51.47 2020]:ERROR White invailed move move {'move': 'dd', 'token': 'ffhbgiQSSbxMcXjWJiYD'}
+[Sun Jan 26 12.51.47 2020]:=== Game over ===
+[Sun Jan 26 12.51.47 2020]:Result: Black win!
+[Sun Jan 26 12.51.47 2020]:Final score: 4b 1w
+[Sun Jan 26 12.51.47 2020]:Final board: 0000000000000000000b0000000bb000000bw000000000000000000000000000
+[Sun Jan 26 12.51.47 2020]:=== Game end ===

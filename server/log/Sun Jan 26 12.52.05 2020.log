@@ -1,0 +1,135 @@
+[Sun Jan 26 12.52.05 2020]:Server running, Port: 6068 open
+[Sun Jan 26 12.52.08 2020]:Black(('127.0.0.1', 52084)) connected
+[Sun Jan 26 12.52.08 2020]:Black token published: VUw4cKbj1ijMuJcykfaj
+[Sun Jan 26 12.52.12 2020]:White(('127.0.0.1', 52085)) connected
+[Sun Jan 26 12.52.12 2020]:White token published: jqxozKpfpLVCdkdoVYuZ
+[Sun Jan 26 12.52.12 2020]:======={ Game start }=======
+[Sun Jan 26 12.52.12 2020]:Black available: 3D 4C 5F 6E
+[Sun Jan 26 12.52.15 2020]:board: 0000000000000000000b0000000bb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.15 2020]:White available: 3C 3E 5C
+[Sun Jan 26 12.52.21 2020]:board: 000000000000000000wb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.21 2020]:Black available: 3B 4C 5F 6E
+[Sun Jan 26 12.52.23 2020]:board: 00000000000000000bbb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.23 2020]:White available: 2B 2D 3E 4F 5C 6D
+[Sun Jan 26 12.52.25 2020]:board: 000000000w0000000bwb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.25 2020]:Black available: 1B 4C 5F 6E
+[Sun Jan 26 12.52.27 2020]:board: 0b0000000b0000000bwb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.27 2020]:White available: 1A 2D 3A 3E 4F 5C 6D
+[Sun Jan 26 12.52.30 2020]:board: wb0000000w0000000bwb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.30 2020]:Black available: 4C 5F 6E
+[Sun Jan 26 12.52.32 2020]:board: wb0000000w0000000bwb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.32 2020]:White available: 1C 3A 3E 4B 5C
+[Sun Jan 26 12.52.36 2020]:board: www000000w0000000bwb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.36 2020]:Black available: 2C 5F 6E 6F
+[Sun Jan 26 12.52.38 2020]:board: www000000wb000000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.38 2020]:White available: 2D 3E 4B 5C 5F
+[Sun Jan 26 12.52.40 2020]:board: www000000www00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.40 2020]:Black available: 1D 1E 5F 6E 6F
+[Sun Jan 26 12.52.44 2020]:board: wwwb00000wbb00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.44 2020]:White available: 1E 2E 3E 4B 5C 5F
+[Sun Jan 26 12.52.46 2020]:board: wwwww0000wbb00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.46 2020]:Black available: 2A 5F 6E 6F
+[Sun Jan 26 12.52.48 2020]:board: wwwww000bbbb00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.48 2020]:White available: 3A 3E 4A 4B 5C 5F 6D
+[Sun Jan 26 12.52.50 2020]:board: wwwww000wwbb0000wbbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.50 2020]:Black available: 5F 6E 6F
+[Sun Jan 26 12.52.53 2020]:board: wwwww000wwbb0000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.53 2020]:White available: 2E 3E 4A 4B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.52.54 2020]:board: wwwww000wwwww000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.54 2020]:Black available: 1F
+[Sun Jan 26 12.52.56 2020]:board: wwwwwb00wwwwb000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.56 2020]:White available: 1G 2F 3E 3F 4A 4B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.52.58 2020]:board: wwwwwww0wwwwb000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.58 2020]:Black turn pass
+[Sun Jan 26 12.52.58 2020]:White available: 2F 3E 3F 4A 4B 5B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.00 2020]:board: wwwwwww0wwwwww00wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.53.00 2020]:Black turn pass
+[Sun Jan 26 12.53.00 2020]:White available: 3E 4A 4B 5B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.02 2020]:board: wwwwwww0wwwwww00wwwww00000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.53.02 2020]:Black turn pass
+[Sun Jan 26 12.53.02 2020]:White available: 5B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.05 2020]:board: wwwwwww0wwwwww00wwwww00000wbb0000w0bbb00000000000000000000000000
+[Sun Jan 26 12.53.05 2020]:Black available: 4B
+[Sun Jan 26 12.53.08 2020]:board: wwwwwww0wwwwww00wwwww0000bbbb0000w0bbb00000000000000000000000000
+[Sun Jan 26 12.53.08 2020]:White available: 5A 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.10 2020]:board: wwwwwww0wwwwww00wwwww0000wbbb000ww0bbb00000000000000000000000000
+[Sun Jan 26 12.53.10 2020]:Black available: 4A 6A
+[Sun Jan 26 12.53.12 2020]:board: wwwwwww0wwwwww00wwwww000bbbbb000ww0bbb00000000000000000000000000
+[Sun Jan 26 12.53.12 2020]:White available: 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.14 2020]:board: wwwwwww0wwwwww00wwwww000bwwwb000wwwbbb00000000000000000000000000
+[Sun Jan 26 12.53.14 2020]:Black available: 6A 6C
+[Sun Jan 26 12.53.16 2020]:board: wwwwwww0wwwwww00wwwww000bwwwb000bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.16 2020]:White available: 4F 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.18 2020]:board: wwwwwww0wwwwww00wwwww000bwwwww00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.18 2020]:Black available: 3F 3G 4G 6C
+[Sun Jan 26 12.53.20 2020]:board: wwwwwww0wwwwww00wwwwwb00bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.20 2020]:White available: 3G 4G 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.22 2020]:board: wwwwwww0wwwwww00wwwwwww0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.22 2020]:Black available: 2G 2H 6C
+[Sun Jan 26 12.53.25 2020]:board: wwwwwww0wwwwwwb0wwwwwbw0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.25 2020]:White available: 2H 3H 4G 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.27 2020]:board: wwwwwww0wwwwwwwwwwwwwbw0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.27 2020]:Black available: 1H 3H 6C
+[Sun Jan 26 12.53.30 2020]:board: wwwwwwwbwwwwwwbwwwwwwbw0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.30 2020]:White available: 3H 4G 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.32 2020]:board: wwwwwwwbwwwwwwwwwwwwwbwwbwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.32 2020]:Black available: 4H 6C
+[Sun Jan 26 12.53.35 2020]:board: wwwwwwwbwwwwwwwbwwwwwbwbbwwwbb0bbwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.35 2020]:White available: 4G 5G 6C 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.37 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.37 2020]:Black available: 6C
+[Sun Jan 26 12.53.40 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbbwbbb00b0b000000000000000000000
+[Sun Jan 26 12.53.40 2020]:White available: 5G 6B 6D 6E 6F 6G 7A 7B 7C
+[Sun Jan 26 12.53.42 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbbwwwww0b0b000000000000000000000
+[Sun Jan 26 12.53.42 2020]:Black available: 5H 6D 6E 6F
+[Sun Jan 26 12.53.45 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbbbbbbbbb0b000000000000000000000
+[Sun Jan 26 12.53.45 2020]:White available: 6B 6D 6E 6F 6G 6H 7A 7B 7C
+[Sun Jan 26 12.53.47 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwbbbbbbwb000000000000000000000
+[Sun Jan 26 12.53.47 2020]:Black available: 7C
+[Sun Jan 26 12.53.50 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwbbbbbbbb0000000b0000000000000
+[Sun Jan 26 12.53.50 2020]:White available: 6D 6E 6F 6G 6H 7A 7B 7D 8C
+[Sun Jan 26 12.53.52 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwbbbbbbw000000b0000000000000
+[Sun Jan 26 12.53.52 2020]:Black available: 6E
+[Sun Jan 26 12.53.55 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwbbbbbbbb00000b0000000000000
+[Sun Jan 26 12.53.55 2020]:White available: 6F 6G 6H 7A 7B 7D 7E 7F 8B 8C
+[Sun Jan 26 12.53.57 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwbbbbbbbw0000b0000000000000
+[Sun Jan 26 12.53.57 2020]:Black available: 6G 7E
+[Sun Jan 26 12.53.59 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwbbbbbbbbb000b0000000000000
+[Sun Jan 26 12.53.59 2020]:White available: 6H 7A 7B 7D 7E 7F 7G 7H 8B 8C
+[Sun Jan 26 12.54.03 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwwbbbbbbbbw00b0000000000000
+[Sun Jan 26 12.54.03 2020]:Black available: 7H
+[Sun Jan 26 12.54.07 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwwbbbbbbbbb00b0000b00000000
+[Sun Jan 26 12.54.07 2020]:White available: 7A 7B 7D 7E 7F 7G 8B 8C
+[Sun Jan 26 12.54.10 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwbbbbbbw0b0000b00000000
+[Sun Jan 26 12.54.10 2020]:Black turn pass
+[Sun Jan 26 12.54.10 2020]:White available: 7B 7D 7E 7F 7G 8B 8C 8D
+[Sun Jan 26 12.54.13 2020]:board: wwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwwbbbbbwwb0000b00000000
+[Sun Jan 26 12.54.13 2020]:Black available: 8A
+[Sun Jan 26 12.54.15 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwbwwwbwwbbbbbbwbb0000bb0000000
+[Sun Jan 26 12.54.15 2020]:White available: 7D 7E 7F 7G 8B 8C 8D
+[Sun Jan 26 12.54.18 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwwwwbwwwwwbbbwwww000bb0000000
+[Sun Jan 26 12.54.18 2020]:Black available: 7E 8B 8C
+[Sun Jan 26 12.54.20 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwbbbbwwwwb00bb0000000
+[Sun Jan 26 12.54.20 2020]:White available: 7F 7G 8D 8E 8F
+[Sun Jan 26 12.54.24 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwwwbbwwwwww0bb0000000
+[Sun Jan 26 12.54.24 2020]:Black available: 7G 8B 8C 8D 8E 8F
+[Sun Jan 26 12.54.26 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwwbbbwwwwwwbbb0000000
+[Sun Jan 26 12.54.26 2020]:White available: 8G 8H
+[Sun Jan 26 12.54.29 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwwbwbwwwwwwwbb00000w0
+[Sun Jan 26 12.54.29 2020]:Black available: 8B 8C 8D 8E 8F 8H
+[Sun Jan 26 12.54.32 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwbwwwwbbb0000w0
+[Sun Jan 26 12.54.32 2020]:White available: 8C 8D
+[Sun Jan 26 12.54.36 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwwwwwbbbw000w0
+[Sun Jan 26 12.54.36 2020]:Black available: 8D 8E 8F 8H
+[Sun Jan 26 12.54.39 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwbbwwbbbbb00w0
+[Sun Jan 26 12.54.39 2020]:White available: 8E 8F
+[Sun Jan 26 12.54.41 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwwwwwbbbbbw0w0
+[Sun Jan 26 12.54.41 2020]:Black available: 8F 8H
+[Sun Jan 26 12.54.44 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwwbbbbbbbbbbw0
+[Sun Jan 26 12.54.44 2020]:White available: 8H
+[Sun Jan 26 12.54.48 2020]:board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwwwwbwwwbwwwbwwwwbbwbbbbbbbww
+[Sun Jan 26 12.54.48 2020]:=== Game over ===
+[Sun Jan 26 12.54.48 2020]:Result: Black win!
+[Sun Jan 26 12.54.48 2020]:Final score: 19b 45w
+[Sun Jan 26 12.54.48 2020]:Final board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwwwwbwwwbwwwbwwwwbbwbbbbbbbww
+[Sun Jan 26 12.54.48 2020]:=== Game end ===

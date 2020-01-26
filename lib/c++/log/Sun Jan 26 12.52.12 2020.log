@@ -1,0 +1,96 @@
+[Sun Jan 26 12.52.12 2020] Server connection success!
+[Sun Jan 26 12.52.12 2020] Color: w, Token: jqxozKpfpLVCdkdoVYuZ, Board: 000000000000000000000000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.15 2020] update: 0000000000000000000b0000000bb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.15 2020] turn: 3C 3E 5C
+[Sun Jan 26 12.52.21 2020] update: 000000000000000000wb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.23 2020] update: 00000000000000000bbb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.23 2020] turn: 2B 2D 3E 4F 5C 6D
+[Sun Jan 26 12.52.25 2020] update: 000000000w0000000bwb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.27 2020] update: 0b0000000b0000000bwb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.27 2020] turn: 1A 2D 3A 3E 4F 5C 6D
+[Sun Jan 26 12.52.30 2020] update: wb0000000w0000000bwb0000000wb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.32 2020] update: wb0000000w0000000bwb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.32 2020] turn: 1C 3A 3E 4B 5C
+[Sun Jan 26 12.52.36 2020] update: www000000w0000000bwb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.38 2020] update: www000000wb000000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.38 2020] turn: 2D 3E 4B 5C 5F
+[Sun Jan 26 12.52.40 2020] update: www000000www00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.44 2020] update: wwwb00000wbb00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.44 2020] turn: 1E 2E 3E 4B 5C 5F
+[Sun Jan 26 12.52.46 2020] update: wwwww0000wbb00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.48 2020] update: wwwww000bbbb00000bbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.48 2020] turn: 3A 3E 4A 4B 5C 5F 6D
+[Sun Jan 26 12.52.50 2020] update: wwwww000wwbb0000wbbb000000bbb000000bw000000000000000000000000000
+[Sun Jan 26 12.52.53 2020] update: wwwww000wwbb0000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.53 2020] turn: 2E 3E 4A 4B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.52.54 2020] update: wwwww000wwwww000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.56 2020] update: wwwwwb00wwwwb000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.56 2020] turn: 1G 2F 3E 3F 4A 4B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.52.58 2020] update: wwwwwww0wwwwb000wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.52.58 2020] turn: 2F 3E 3F 4A 4B 5B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.00 2020] update: wwwwwww0wwwwww00wbbb000000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.53.00 2020] turn: 3E 4A 4B 5B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.02 2020] update: wwwwwww0wwwwww00wwwww00000bbb000000bbb00000000000000000000000000
+[Sun Jan 26 12.53.02 2020] turn: 5B 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.05 2020] update: wwwwwww0wwwwww00wwwww00000wbb0000w0bbb00000000000000000000000000
+[Sun Jan 26 12.53.08 2020] update: wwwwwww0wwwwww00wwwww0000bbbb0000w0bbb00000000000000000000000000
+[Sun Jan 26 12.53.08 2020] turn: 5A 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.10 2020] update: wwwwwww0wwwwww00wwwww0000wbbb000ww0bbb00000000000000000000000000
+[Sun Jan 26 12.53.12 2020] update: wwwwwww0wwwwww00wwwww000bbbbb000ww0bbb00000000000000000000000000
+[Sun Jan 26 12.53.12 2020] turn: 5C 6D 6E 6F 6G
+[Sun Jan 26 12.53.14 2020] update: wwwwwww0wwwwww00wwwww000bwwwb000wwwbbb00000000000000000000000000
+[Sun Jan 26 12.53.16 2020] update: wwwwwww0wwwwww00wwwww000bwwwb000bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.16 2020] turn: 4F 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.18 2020] update: wwwwwww0wwwwww00wwwww000bwwwww00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.20 2020] update: wwwwwww0wwwwww00wwwwwb00bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.20 2020] turn: 3G 4G 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.22 2020] update: wwwwwww0wwwwww00wwwwwww0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.25 2020] update: wwwwwww0wwwwwwb0wwwwwbw0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.25 2020] turn: 2H 3H 4G 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.27 2020] update: wwwwwww0wwwwwwwwwwwwwbw0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.30 2020] update: wwwwwwwbwwwwwwbwwwwwwbw0bwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.30 2020] turn: 3H 4G 5G 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.32 2020] update: wwwwwwwbwwwwwwwwwwwwwbwwbwwwbb00bwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.35 2020] update: wwwwwwwbwwwwwwwbwwwwwbwbbwwwbb0bbwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.35 2020] turn: 4G 5G 6C 6D 6E 6F 6G 7A
+[Sun Jan 26 12.53.37 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwbbb00b00000000000000000000000
+[Sun Jan 26 12.53.40 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbbwbbb00b0b000000000000000000000
+[Sun Jan 26 12.53.40 2020] turn: 5G 6B 6D 6E 6F 6G 7A 7B 7C
+[Sun Jan 26 12.53.42 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbbwwwww0b0b000000000000000000000
+[Sun Jan 26 12.53.45 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbbbbbbbbb0b000000000000000000000
+[Sun Jan 26 12.53.45 2020] turn: 6B 6D 6E 6F 6G 6H 7A 7B 7C
+[Sun Jan 26 12.53.47 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwbbbbbbwb000000000000000000000
+[Sun Jan 26 12.53.50 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwbbbbbbbb0000000b0000000000000
+[Sun Jan 26 12.53.50 2020] turn: 6D 6E 6F 6G 6H 7A 7B 7D 8C
+[Sun Jan 26 12.53.52 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwbbbbbbw000000b0000000000000
+[Sun Jan 26 12.53.55 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwbbbbbbbb00000b0000000000000
+[Sun Jan 26 12.53.55 2020] turn: 6F 6G 6H 7A 7B 7D 7E 7F 8B 8C
+[Sun Jan 26 12.53.57 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwbbbbbbbw0000b0000000000000
+[Sun Jan 26 12.53.59 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwbbbbbbbbb000b0000000000000
+[Sun Jan 26 12.53.59 2020] turn: 6H 7A 7B 7D 7E 7F 7G 7H 8B 8C
+[Sun Jan 26 12.54.03 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwwbbbbbbbbw00b0000000000000
+[Sun Jan 26 12.54.07 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbbwwwwwwbbwwwwwwbbbbbbbbb00b0000b00000000
+[Sun Jan 26 12.54.07 2020] turn: 7A 7B 7D 7E 7F 7G 8B 8C
+[Sun Jan 26 12.54.10 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwbbbbbbw0b0000b00000000
+[Sun Jan 26 12.54.10 2020] turn: 7B 7D 7E 7F 7G 8B 8C 8D
+[Sun Jan 26 12.54.13 2020] update: wwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwwwwwwbwwwbbbbbwwb0000b00000000
+[Sun Jan 26 12.54.15 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwbwwwbwwbbbbbbwbb0000bb0000000
+[Sun Jan 26 12.54.15 2020] turn: 7D 7E 7F 7G 8B 8C 8D
+[Sun Jan 26 12.54.18 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwwwwbwwwwwbbbwwww000bb0000000
+[Sun Jan 26 12.54.20 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwbbbbwwwwb00bb0000000
+[Sun Jan 26 12.54.20 2020] turn: 7F 7G 8D 8E 8F
+[Sun Jan 26 12.54.24 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwwwbbwwwwww0bb0000000
+[Sun Jan 26 12.54.26 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwwbbbwwwwwwbbb0000000
+[Sun Jan 26 12.54.26 2020] turn: 8G 8H
+[Sun Jan 26 12.54.29 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwwwbwbwwwwwwwbb00000w0
+[Sun Jan 26 12.54.32 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwbwwwwbbb0000w0
+[Sun Jan 26 12.54.32 2020] turn: 8C 8D
+[Sun Jan 26 12.54.36 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwwwwwbbbw000w0
+[Sun Jan 26 12.54.39 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwbbwwbbbbb00w0
+[Sun Jan 26 12.54.39 2020] turn: 8E 8F
+[Sun Jan 26 12.54.41 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwwwwwbbbbbw0w0
+[Sun Jan 26 12.54.44 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwbwwbwwwbwbwbwwwwbbbbbbbbbbw0
+[Sun Jan 26 12.54.44 2020] turn: 8H
+[Sun Jan 26 12.54.48 2020] update: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwwwwbwwwbwwwbwwwwbbwbbbbbbbww
+[Sun Jan 26 12.54.48 2020] game end: lose 19b 45w
+[Sun Jan 26 12.54.48 2020] final board: wwwwwwwbwwwwwwbbwwwwwbwbwwwwbwwbwwwwwwwbwwwbwwwbwwwwbbwbbbbbbbww

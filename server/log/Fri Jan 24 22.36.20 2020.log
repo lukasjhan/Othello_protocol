@@ -1,0 +1,13 @@
+[Fri Jan 24 22.36.20 2020]:Server running, Port: 6068 open
+[Fri Jan 24 22.36.25 2020]:Black(('127.0.0.1', 60449)) connected
+[Fri Jan 24 22.36.25 2020]:Black token published: OOcLuqrrQf2wzbLRhwzY
+[Fri Jan 24 22.36.29 2020]:White(('127.0.0.1', 60450)) connected
+[Fri Jan 24 22.36.29 2020]:White token published: fH9BTVPsMpwtdChgv4JH
+[Fri Jan 24 22.36.29 2020]:======={ Game start }=======
+[Fri Jan 24 22.36.29 2020]:Black available: 3D 4C 5F 6E
+[Fri Jan 24 22.36.35 2020]:ERROR Black invaild code 3D {}
+[Fri Jan 24 22.36.35 2020]:=== Game over ===
+[Fri Jan 24 22.36.35 2020]:Result: White win!
+[Fri Jan 24 22.36.35 2020]:Final score: 2b 2w
+[Fri Jan 24 22.36.35 2020]:Final board: 000000000000000000000000000wb000000bw000000000000000000000000000
+[Fri Jan 24 22.36.35 2020]:=== Game end ===
