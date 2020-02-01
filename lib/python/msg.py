@@ -15,9 +15,10 @@ def gen_move_msg(move, token):
         'move:{move}\n' \
         'token:{token}'.format(move=move, token=token)
 
-def gen_update_msg(board):
+def gen_update_msg(board, move):
     return 'update\n' \
-        'board:{board}'.format(board=board)
+        'board:{board}\n' \
+        'move:{move}'.format(board=board, move=move)
 
 def gen_end_msg(status, score, board):
     return 'end\n' \

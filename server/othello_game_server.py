@@ -55,8 +55,8 @@ class othello_network_server:
         
         self.log.write("======={ Game start }=======")
         error = False
-        self.black_player_socket.settimeout(20)
-        self.white_player_socket.settimeout(20)
+        self.black_player_socket.settimeout(15)
+        self.white_player_socket.settimeout(15)
         
         while self.board.is_end() == False:
             
@@ -108,8 +108,8 @@ class othello_network_server:
             self.board.make_move(self.board.convert_1A_to_ij(data['move']), self.turn)
             self.log.write('board: ' + self.board.board_to_str())
 
-            self.server_socket.send(self.black_player_socket, gen_update_msg(self.board.board_to_str()))
-            self.server_socket.send(self.white_player_socket, gen_update_msg(self.board.board_to_str()))
+            self.server_socket.send(self.black_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
+            self.server_socket.send(self.white_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
 
             self.switch_turn()
 

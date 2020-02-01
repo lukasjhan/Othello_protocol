@@ -100,7 +100,6 @@ class Board:
                     if count_my_cells > 0 and count_other_cells > 0:
                         valid_moves.append(self.convert_ij_to_1A(i,j))
                         break
-        valid_moves = valid_moves
         return valid_moves
 
     def is_end(self):
