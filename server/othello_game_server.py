@@ -105,12 +105,13 @@ class othello_network_server:
                 error = True
                 break
 
+            self.log.write(player_info[self.turn]['name'] + " move: " + data['move'])
             self.board.make_move(self.board.convert_1A_to_ij(data['move']), self.turn)
             self.log.write('board: ' + self.board.board_to_str())
 
             self.server_socket.send(self.black_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
             self.server_socket.send(self.white_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
-
+            time.sleep(1)
             self.switch_turn()
 
         # game over.
