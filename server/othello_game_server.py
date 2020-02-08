@@ -5,18 +5,22 @@ from msg import *
 
 import sys
 import random
+import queue
+import threading
 
-class othello_network_server:
-    def __init__(self, port_number=6068):
+class othello_network_server(threading.Thread):
+    def __init__(self, port_number=6068, queue=None):
+        threading.Thread.__init__(self)
         self.port = port_number
         self.log = Log()
         self.server_socket = Server(self.port)
         self.board = Board()
         self.turn = 'b'
+        self.queue = queue
 
         self.log.write('Server running, Port: %d open' % self.port)
 
-    def start(self):
+    def run(self):
 
         self.server_socket.open()
 
@@ -107,11 +111,14 @@ class othello_network_server:
 
             self.log.write(player_info[self.turn]['name'] + " move: " + data['move'])
             self.board.make_move(self.board.convert_1A_to_ij(data['move']), self.turn)
+            #move
+            if self.queue:
+                self.queue.put(self.board.convert_1A_to_ij(data['move']))
             self.log.write('board: ' + self.board.board_to_str())
 
             self.server_socket.send(self.black_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
             self.server_socket.send(self.white_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
-            time.sleep(1)
+            
             self.switch_turn()
 
         # game over.
@@ -169,7 +176,7 @@ class othello_network_server:
 
 def main():
     othello = othello_network_server(int(sys.argv[1]))
-    othello.start()
+    othello.run()
 
 if __name__ == '__main__':
     if len(sys.argv) != 2 or sys.argv[1].isdecimal() == False:
