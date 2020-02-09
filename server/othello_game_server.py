@@ -8,6 +8,8 @@ import random
 import queue
 import threading
 
+time_out_sec = 15
+
 class othello_network_server(threading.Thread):
     def __init__(self, port_number=6068, queue=None):
         threading.Thread.__init__(self)
@@ -59,8 +61,8 @@ class othello_network_server(threading.Thread):
         
         self.log.write("======={ Game start }=======")
         error = False
-        self.black_player_socket.settimeout(15)
-        self.white_player_socket.settimeout(15)
+        self.black_player_socket.settimeout(time_out_sec)
+        self.white_player_socket.settimeout(time_out_sec)
         
         while self.board.is_end() == False:
             
@@ -118,7 +120,7 @@ class othello_network_server(threading.Thread):
 
             self.server_socket.send(self.black_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
             self.server_socket.send(self.white_player_socket, gen_update_msg(self.board.board_to_str(), data['move']))
-            
+            time.sleep(5)
             self.switch_turn()
 
         # game over.
